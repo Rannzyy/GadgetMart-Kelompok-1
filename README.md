@@ -1,5 +1,3 @@
-nih langsung copy aja buat README di GitHub lu 😏👇
-
 ---
 
 # GadgetMart.id
